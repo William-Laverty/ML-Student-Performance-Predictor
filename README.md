@@ -9,9 +9,9 @@ Welcome to the **Machine Learning for Student Performance Predictor**. This is a
 
 In this algorithm, we use the "student-mat.csv" dataset, which is part of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset contains information about student performance in mathematics. The features include attributes such as first-period grade, second-period grade, weekly study time, school type, family size, parent's occupation, and more.
 
-## License
+## 📝 License
 
-📝 The code and documentation in this repository are licensed under the MIT License. You can find the full license text in the [LICENSE](LICENSE) file.
+The code and documentation in this repository are licensed under the MIT License. You can find the full license text in the [LICENSE](LICENSE) file.
 
 ## Steps Performed by the Code
 
