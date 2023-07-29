@@ -37,7 +37,7 @@ These packages are essential for different aspects of the project, from data han
 - **IPywidgets**    # Interactive widgets for Jupyter notebooks
 - **Ttkthemes**     # Theming extension for Tkinter
 
-## 📝 License
+### 📝 License
 
 The code and documentation in this repository are licensed under the MIT License. You can find the full license text in the [LICENSE](LICENSE) file.
 
