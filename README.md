@@ -9,10 +9,6 @@ Welcome to the **Machine Learning for Student Performance Predictor**. This is a
 
 In this algorithm, we use the "student-mat.csv" dataset, which is part of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset contains information about student performance in mathematics. The features include attributes such as first-period grade, second-period grade, weekly study time, school type, family size, parent's occupation, and more.
 
-## 📝 License
-
-The code and documentation in this repository are licensed under the MIT License. You can find the full license text in the [LICENSE](LICENSE) file.
-
 ## Steps Performed by the Code
 
 The Student Grade Predictor is a tool that uses a Linear Regression model to predict the final grade of a student based on their first-period grade (G1), second-period grade (G2), and weekly study time. The model is trained on a dataset containing student information, and the user can input values for G1, G2, and study time through an interactive Graphical User Interface (GUI) to obtain the predicted final grade for a new student.
@@ -40,6 +36,10 @@ These packages are essential for different aspects of the project, from data han
 - **Scikit-learn**  # Machine learning library
 - **IPywidgets**    # Interactive widgets for Jupyter notebooks
 - **Ttkthemes**     # Theming extension for Tkinter
+
+## 📝 License
+
+The code and documentation in this repository are licensed under the MIT License. You can find the full license text in the [LICENSE](LICENSE) file.
 
 ### 📚 References
 
