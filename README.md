@@ -1,6 +1,5 @@
 ## 🚀 Machine Learning: Student Performance Predictor
 
-[![GitHub Classroom](https://img.shields.io/badge/GitHub_Classroom-Review_Assignment-41B883?style=for-the-badge&logo=github)](https://classroom.github.com/a/0IOmZycZ)
 [![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-Get_Started-007ACC?style=for-the-badge&logo=visual-studio-code)](https://classroom.github.com/online_ide?assignment_repo_id=11500776&assignment_repo_type=AssignmentRepo)
 
 ## 🎯 Overview
