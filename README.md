@@ -6,7 +6,13 @@
 
 Welcome to the **Machine Learning for Student Performance Predictor**. This is a machine learning algorithm for predicting student performance using the Linear Regression technique. The goal of this program is to forecast the final grades of students based on their academic performance and other related factors.
 
-In this algorithm, we use the "student-mat.csv" dataset, which is part of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset contains information about student performance in mathematics. The features include attributes such as first-period grade, second-period grade, weekly study time, school type, family size, parent's occupation, and more.
+**The project consists of two main components: gradePredictor - GUI.ipynb and gradePredictor - TERMINAL.ipynb.**
+
+**gradePredictor** - [`GUI.ipynb`](https://github.com/William-Laverty/ML-Student-Performance-Predictor/blob/main/gradePredictor%20-%20GUI.ipynb) This Jupyter Notebook contains a user-friendly graphical user interface (GUI) that allows users to input student data and obtain grade predictions through an interactive and intuitive interface. 
+
+**gradePredictor** - [`TERMINAL.ipynb`](https://github.com/William-Laverty/ML-Student-Performance-Predictor/blob/main/gradePredictor%20-%20TERMINAL.ipynb) This Jupyter Notebook provides a command-line interface (CLI) version of the grade prediction tool, enabling users to input student data through the terminal and receive grade predictions.
+
+In this algorithm, we use the `student-mat.csv` dataset, which is part of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance). The dataset contains information about student performance in mathematics. The features include attributes such as first-period grade, second-period grade, weekly study time, school type, family size, parent's occupation, and more.
 
 ## Steps Performed by the Code
 
@@ -14,7 +20,7 @@ The Student Grade Predictor is a tool that uses a Linear Regression model to pre
 
 The predictor uses one-hot encoding for categorical variables and is trained on a dataset (assuming the dataset is in the same directory as the script) that is preprocessed to handle missing values or categorical variables.
 
-1. **Data Loading:** The code reads the "student-mat.csv" file, which contains the student performance data, using the pandas library. The data is loaded into a DataFrame for further processing.
+1. **Data Loading:** The code reads the `"student-mat.csv"` file, which contains the student performance data, using the pandas library. The data is loaded into a DataFrame for further processing.
 
 2. **Data Preprocessing:** The dataset may have missing values or categorical variables that need handling. The code preprocesses the data, converting categorical variables into numerical form using one-hot encoding. This transformation is necessary because most machine learning algorithms, including Linear Regression, require numerical inputs.
 
