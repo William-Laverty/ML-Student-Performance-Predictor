@@ -14,7 +14,7 @@ In this algorithm, we use the `student-mat.csv` dataset, which is part of the [U
 
 - [`TERMINAL.ipynb`](https://github.com/William-Laverty/ML-Student-Performance-Predictor/blob/main/gradePredictor%20-%20TERMINAL.ipynb) This Jupyter Notebook provides a command-line interface (CLI) version of the grade prediction tool, enabling users to input student data through the terminal and receive grade predictions.
 
-The terminal version [`TERMINAL.ipynb`](https://github.com/William-Laverty/ML-Student-Performance-Predictor/blob/main/gradePredictor%20-%20TERMINAL.ipynb) includes a more detailed explanation of the prediction process, accompanied by graphs and visualizations to provide users with a deeper understanding of the model's performance and results. Users can explore the data analysis and model evaluation in the terminal version to gain insights into the grade prediction tool's performance.
+The [terminal version](https://github.com/William-Laverty/ML-Student-Performance-Predictor/blob/main/gradePredictor%20-%20TERMINAL.ipynb) includes a more detailed explanation of the prediction process, accompanied by graphs and visualizations to provide users with a deeper understanding of the model's performance and results. Users can explore the data analysis and model evaluation in the terminal version to gain insights into the grade prediction tool's performance.
 
 ## Steps Performed by the Code
 
