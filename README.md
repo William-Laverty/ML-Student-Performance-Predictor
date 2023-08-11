@@ -1,6 +1,6 @@
 ## 🚀 Machine Learning: Student Performance Predictor
 
-[![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-Get_Started-007ACC?style=for-the-badge&logo=visual-studio-code)](vscode://https://github.com/William-Laverty/ML-Student-Performance-Predictor)
+[![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-Get_Started-007ACC?style=for-the-badge&logo=visual-studio-code)](vscode://github.com/William-Laverty/ML-Student-Performance-Predictor)
 
 ## 🎯 Overview
 
