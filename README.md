@@ -1,8 +1,4 @@
-## 🚀 Machine Learning: Student Performance Predictor
-
-[![Visual Studio Code](https://img.shields.io/badge/Open_in_Visual_Studio_Code-Get_Started-007ACC?style=for-the-badge&logo=visual-studio-code)](vscode://github.remotehub/open?url=https%3A%2F%2Fgithub.com%2FWilliam-Laverty%2FML-Student-Performance-Predictor)
-
-## 🎯 Overview
+# 🚀 Machine Learning: Student Performance Predictor 
 
 Welcome to the **Machine Learning for Student Performance Predictor**. This is a machine learning algorithm for predicting student performance using the Linear Regression technique. The goal of this program is to forecast the final grades of students based on their academic performance and other related factors.
 
@@ -16,7 +12,7 @@ In this algorithm, we use the `student-mat.csv` dataset, which is part of the [U
 
 The [terminal version](https://github.com/William-Laverty/ML-Student-Performance-Predictor/blob/main/gradePredictor%20-%20TERMINAL.ipynb) includes a more detailed explanation of the prediction process, accompanied by graphs and visualizations to provide users with a deeper understanding of the model's performance and results. Users can explore the data analysis and model evaluation in the terminal version to gain insights into the grade prediction tool's performance.
 
-## Steps Performed by the Code
+## 🎯 Steps Performed by the Code
 
 The Student Grade Predictor is a tool that uses a Linear Regression model to predict the final grade of a student based on their first-period grade (G1), second-period grade (G2), and weekly study time. The model is trained on a dataset containing student information, and the user can input values for G1, G2, and study time through an interactive Graphical User Interface (GUI) to obtain the predicted final grade for a new student.
 
